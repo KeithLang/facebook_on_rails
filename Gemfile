@@ -22,4 +22,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 # added simpleform
 gem 'simple_form'
+gem 'bootstrap-sass'
 
