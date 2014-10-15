@@ -23,4 +23,6 @@ gem 'spring',        group: :development
 # added simpleform
 gem 'simple_form'
 gem 'bootstrap-sass'
-
+gem 'devise'
+#add facebook authentication via omniauth
+gem 'omniauth-facebook'
